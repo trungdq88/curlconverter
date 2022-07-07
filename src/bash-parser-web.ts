@@ -1,4 +1,4 @@
-import Parser from "web-tree-sitter";
+import Parser from "@trungdq88/web-tree-sitter";
 
 var dump = `
 AGFzbQEAAAAADgZkeWxpbmvArRgEAgAAATsKYAF/AGABfwF/YAJ/fwBgAn9/AX9gA39/fwF/YAR/f39

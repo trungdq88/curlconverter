@@ -1,6 +1,6 @@
 {
   "name": "@trungdq88/curlconverter",
-  "version": "4.0.1",
+  "version": "4.0.2",
   "description": "convert Curl commands to Python, JavaScript, Go, PHP and other languages",
   "homepage": "https://curlconverter.com",
   "author": {
@@ -25,11 +25,11 @@
   "type": "module",
   "dependencies": {
     "@curlconverter/tree-sitter-bash": "^0.0.2",
+    "@trungdq88/web-tree-sitter": "0.20.8",
     "jsesc": "^3.0.2",
     "nunjucks": "^3.2.3",
     "query-string": "^7.1.1",
     "tree-sitter": "^0.20.0",
-    "web-tree-sitter": "^0.20.5",
     "yamljs": "^0.3.0"
   },
   "devDependencies": {
